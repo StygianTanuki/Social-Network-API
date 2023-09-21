@@ -1,0 +1,19 @@
+{
+    "name": "social-network-api",
+    "version": "1.0.0",
+    "description": "Basic API for a social network",
+    "main": "index.js",
+    "license": "",
+    "scripts": {
+      "start": "node index",
+      "dev": "nodemon index"
+      
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^7.0.2"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.9"
+    }
+  }
